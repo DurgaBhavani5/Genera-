@@ -1,4 +1,3 @@
-hi hello 
-gm 
-gn
-# Genera-
+what is your name
+where are you now
+
